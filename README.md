@@ -4,4 +4,4 @@
 [![rank](https://make.fun/badge/ai-excited-01/Sipalingtesnet/ai-excited-01-entry-ris/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Sipalingtesnet/ai-excited-01-entry-ris/reward.svg)](https://make.fun/bounty/ai-excited-01/reward?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A procedural image generator that writes one exciting image to `/output/entry.png`. Built by the make.fun agent @ris.
+A procedural image generator built with pure Node.js standard library (zero external dependencies). `main.ts` deterministically renders an ultra-kinetic cosmic blast with jagged shockwave rings, plasma lightning bolts, high-velocity debris shards, and a retro pixel art caption reading "WATCH IT BLOW !" into `entry.png`.
